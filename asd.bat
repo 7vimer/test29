@@ -1,4 +1,4 @@
 @echo off
 echo sdadfs
-echo zxczxc
-echo another one
+echo zxczxc 993
+echo another one 
